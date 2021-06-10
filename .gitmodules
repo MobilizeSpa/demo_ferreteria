@@ -1,0 +1,4 @@
+[submodule "felipanga/theme_prime"]
+	path = felipanga/theme_prime
+	url = git@github.com:felipanga/theme_prime.git
+	branch = 14.0
