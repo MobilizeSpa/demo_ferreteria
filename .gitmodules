@@ -2,3 +2,8 @@
 	path = felipanga/theme_prime
 	url = git@github.com:felipanga/theme_prime.git
 	branch = 14.0
+
+[submodule "felipanga/droggol_theme_common"]
+	path = felipanga/droggol_theme_common
+	url = git@github.com:felipanga/droggol_theme_common.git
+	branch = 14.0
